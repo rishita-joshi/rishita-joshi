@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishita-joshi" alt="rishita-joshi" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://rishita-joshi-9.web.app/](https://rishita-joshi-9.web.app/)
+- 👨‍💻 Portfilo Link [https://rishita-joshi-9.web.app/](https://rishita-joshi-9.web.app/)
 
 - 📫 How to reach me **rishitajoshi04@gmail.com**
 
